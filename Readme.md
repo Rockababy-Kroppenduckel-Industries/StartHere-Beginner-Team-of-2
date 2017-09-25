@@ -25,9 +25,7 @@ natively read these files. A lovely Markdown viewer for Chrome is available here
 
 C. For this exercise, you will use GitHub and Slack. You can use your own Slack channel, or join the RealToughCandy official ``` Git-Er-Dun channel ``` <a href='https://join.slack.com/t/realtoughcandy/shared_invite/enQtMjQ1NTUxMzUzMzEzLWQ1Y2UzOTdiMDRkN2M0YjJiZDc0MDIzZmNmYjQ0MDNhNzk5ZjVlM2ZjM2YwZmIzNmVlZDQ0MTc4MDYyZDE5Yzg'>here. </a>
 
-D.
-
-E. Don't know how to construct a good commit message? <a href="https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message"> Learn here. </a>
+D. Don't know how to construct a good commit message? <a href="https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message"> Learn here. </a>
 
 -----------------
 ## LET'S GET STARTED! ##
