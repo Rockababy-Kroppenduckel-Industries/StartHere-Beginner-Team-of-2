@@ -2,7 +2,7 @@
 **Step 1.** (Dev 1, Dev 2) Elliot Rockababy, founder and lead developer of Rockababy-Kroppenduckel, has just sent you
 an email. "I have a bunch of files for our new site," it reads. "I need u and ur dev partner
 to clone my repo and get to work." Despite Mr. Rockababy's poor grammar, he believes in
-dev accountability. The name of the repo is Git-R-Dun and he has conveniently sent you a link:
+dev accountability. The name of the repo is Git-Er-Dun and he has conveniently sent you a link: https://github.com/Rockababy-Kroppenduckel-Industries/Git-Er-Dun.git
 
 
 **Step 2.** (Dev 1 & Dev 2) After the project is on your local machine, take a quick look at all three files. Mr. Rockababy has instructed you to proceed with the instructions in the JavaScript file; there is an important note from company co-founder Pamela Kroppenduckel.
@@ -18,7 +18,7 @@ _finally_ been removed." But while questioning the meaning of life, she notices 
 **Step 4.** (Dev 2) Man, is anybody in charge around here? There's been some serious weirdness going on and
 you need to get up to speed, but you've been getting mixed messages from both Rockababy and Kroppenduckel. Worse, Dev 1's internet connection keeps flaking out. Find something to do, Git wise, that might help you paint a better picture of what changes have been made official since starting this project. The more details, the better -- this might be a while.
 
-**Step 5.** (Dev 1 & Dev 2) "DEVS!" Mr. Rockababy cries in another email with renewed vigor (and certainly vim -- he's an old-school Linux guy, after all). "I'm schvitzing with astonishment over here. Great job with the tweaks, but the site needs something...fresh. Dev 1, give me a purple background for the body. I want the color to be rebeccapurple, in fact. And Dev 2! I need to see some h1 header action instead of h2. h2 is very 1999! We don't want to be behind the curve with this."
+**Step 5.** (Dev 1 & Dev 2) "DEVS!" Mr. Rockababy cries in another email with renewed vigor (and certainly vim -- he's an old-school Linux guy, after all). "I'm schvitzing with astonishment over here. Great job with the tweaks, but the site needs something...fresh. Dev 1, give me a new background color for the body. I want the color to be cornflowerblue, in fact. And Dev 2! I need to see some h1 header action instead of h2. h2 is very 1999! We don't want to be behind the curve with this."
 Satisfy your boss' pleas by completing his design requirements.
 
 **Step 6.** (Dev 1) You're feeling deviant, quickly toying around with the background color of the web site's body in the CSS file. You change it to a gorgeous _coral_ color and might even want to show the boss, but creating extra files with arbitrary changes without approval is a BIG no-no. You decide to eat
