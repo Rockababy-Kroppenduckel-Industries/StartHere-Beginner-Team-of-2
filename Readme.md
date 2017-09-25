@@ -20,12 +20,12 @@ A. You must configure Git and make sure it plays nice with GitHub. https://help.
 
 B. To get the full experience from this simulation, please request membership to the Rockababy-Kroppenduckel Industries (RKI) GitHub organization. For the quickest response, email me at realtoughcandy@gmail.com. Once approved (don't worry, I'm fast), you will have clone, pull, and push rights to the repos.
 
-B. There are a few instructional files in this folder with the .md  (Markdown) extension. If you want to read these in-browser, remember that browsers cannot
+C. There are a few instructional files in this folder with the .md  (Markdown) extension. If you want to read these in-browser, remember that browsers cannot
 natively read these files. A lovely Markdown viewer for Chrome is available here as an extension: https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en
 
-C. For this exercise, you will use GitHub and Slack. You can use your own Slack channel, or join the RealToughCandy official ``` Git-Er-Dun channel ``` <a href='https://join.slack.com/t/realtoughcandy/shared_invite/enQtMjQ1NTUxMzUzMzEzLWQ1Y2UzOTdiMDRkN2M0YjJiZDc0MDIzZmNmYjQ0MDNhNzk5ZjVlM2ZjM2YwZmIzNmVlZDQ0MTc4MDYyZDE5Yzg'>here. </a>
+D. For this exercise, you will use GitHub and Slack. You can use your own Slack channel, or join the RealToughCandy official ``` Git-Er-Dun channel ``` <a href='https://join.slack.com/t/realtoughcandy/shared_invite/enQtMjQ1NTUxMzUzMzEzLWQ1Y2UzOTdiMDRkN2M0YjJiZDc0MDIzZmNmYjQ0MDNhNzk5ZjVlM2ZjM2YwZmIzNmVlZDQ0MTc4MDYyZDE5Yzg'>here. </a>
 
-D. Don't know how to construct a good commit message? <a href="https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message"> Learn here. </a>
+E. Don't know how to construct a good commit message? <a href="https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message"> Learn here. </a>
 
 -----------------
 ## LET'S GET STARTED! ##
