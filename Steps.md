@@ -4,7 +4,7 @@ an email. "I have a bunch of files for our new site," it reads. "I need u and ur
 to clone my repo and get to work." Despite Mr. Rockababy's poor grammar, he believes in
 dev accountability. The name of the repo is Git-Er-Dun and he has conveniently sent you a link: https://github.com/FlamboyantRockababy/Git-Er-Dun.git
 
-### From here, you will using the Rockababy-Kroppenduckel Industries (RKI) Organization on Github to push and pull the repo.  ###
+### From here, you will using the Rockababy-Kroppenduckel Industries (RKI) Organization to push and pull the repo.  ###
 
 **Step 2.** (Dev 1 & Dev 2) After the project is on your local machine, take a quick look at all three files. Mr. Rockababy has instructed you to proceed with the instructions in the JavaScript file; there is an important note from company co-founder Pamela Kroppenduckel.
 
