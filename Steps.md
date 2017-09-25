@@ -8,7 +8,7 @@ dev accountability. The name of the repo is Git-Er-Dun and he has conveniently s
 
 **Step 2.** (Dev 1 & Dev 2) After the project is on your local machine, take a quick look at all three files. Mr. Rockababy has instructed you to proceed with the instructions in the JavaScript file; there is an important note from company co-founder Pamela Kroppenduckel.
 
-**Step 2.5**  He also wants one of you to rename the file to something more appropriate. Pick somebody to rename the project ``` xx_ThrowbackParty ``` where _xx_ is the first initial from you and your partner's first name (for example, if your name is Sam and your partner's name is Commando, it would be ```SC_ThrowbackParty```).
+**Step 2.5**  He also wants one of you to rename the repo you're working on to something more appropriate. Pick somebody to rename the project ``` xx_ThrowbackParty ``` where _xx_ is the first initial from you and your partner's first name (for example, if your name is Sam and your partner's name is Commando, it would be ```SC_ThrowbackParty```).
 
 
 **Step 3.** (Dev 1) While on vacation attempting to traverse K2, the usually-effervescent and thoroughly old-school Pamela Kroppenduckel snuck into the lady's room to check her Blackberry.
