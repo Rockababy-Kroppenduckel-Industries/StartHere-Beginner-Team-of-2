@@ -87,3 +87,4 @@ Does an integrity check of the Git file system, identifying corrupted objects. E
 
 # git prune #
 Removes objects that are no longer pointed to by any object in any reachable branch. Example: git prune
+
