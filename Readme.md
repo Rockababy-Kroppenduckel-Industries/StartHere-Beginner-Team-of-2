@@ -18,7 +18,7 @@ collaborative environment where exploration and experimentation is encouraged. U
 
 A. You must configure Git and make sure it plays nice with GitHub. https://help.github.com/articles/set-up-git/
 
-B. To get the full experience from this simulation, please request membership to the <a href="https://github.com/Rockababy-Kroppenduckel-Industries/Git-Er-Dun.git">Rockababy-Kroppenduckel Industries (RKI) GitHub organization.</a> For the quickest response, email me at realtoughcandy@gmail.com. Once approved, you will have clone, pull, and push rights to the repos.
+B. To get the full experience from this simulation, please request membership to the <a href="https://github.com/Rockababy-Kroppenduckel-Industries">Rockababy-Kroppenduckel Industries (RKI) GitHub organization.</a> For the quickest response, email me at realtoughcandy@gmail.com. Once approved, you will have clone, pull, and push rights to the repos.
 
 C. There are a few instructional files in this folder with the .md  (Markdown) extension. If you want to read these in-browser, remember that browsers cannot
 natively read these files. A lovely Markdown viewer for Chrome is available here as an extension: https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en
