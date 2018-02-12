@@ -1,5 +1,5 @@
 # GIT-ER-DUN: THE COLLABORATIVE GIT SIMULATOR (Beta Release) #
-### Created by RealToughCandy (realtoughandy@gmail.com) ###
+### Created by RealToughCandy (realtoughcandy@gmail.com) ###
 Scenario Title: “No Good Dev Goes Unpunished”
 
 Team: 2 people
